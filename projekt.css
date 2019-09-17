@@ -1,0 +1,123 @@
+.mail{
+text-align:center;
+font-family: 'Harmattan', sans-serif;
+font-size: 40px;
+}
+.tider{
+text-align:center;
+font-family: 'Harmattan', sans-serif;
+font-size: 40px;
+}
+.kontakt{
+text-align:center;
+font-family: 'Harmattan', sans-serif;
+font-size: 40px;
+font-weight:bold;
+color: rgb(25, 25, 117);
+}
+.adress{
+margin: 10;
+text-align:center;
+font-family: 'Harmattan', sans-serif;
+font-size: 50px;
+font-weight:bold;
+}
+.hej{
+text-align:center;
+font-family: 'Harmattan', sans-serif;
+font-size: 50px;
+}
+.vadå{
+  text-align: center;
+  font-family: 'Harmattan', sans-serif;
+  font-size: 60px;
+  color: rgb(0, 0, 0);
+}
+.vansinne{ 
+  text-align: center;
+  font-family: 'Days One', sans-serif;
+  font-size: 70px;
+  color: rgb(25, 25, 117);
+}
+.parkering{
+  margin: 100;
+  text-align: center;
+  font-family: 'Days One', sans-serif;
+  font-size: 25px;
+}
+.ovrigt{
+  padding:4;
+  margin: 90;
+  text-align: center;
+  font-family: 'Harmattan', sans-serif;
+  font-size: 50px;
+}
+.pris{
+  margin: 50;
+  text-align: center;
+  font-family: 'Days One', sans-serif;
+  font-size: 25px;
+}
+.text{
+  margin: 100;
+  text-align: center;
+  font-family: 'Harmattan', sans-serif;
+  font-size: 25px;
+}.rubi{
+ margin: 100;
+ text-align: center;
+ font-family: 'Harmattan', sans-serif;
+ font-size: 50px;
+ font-weight:bold;
+ color: rgb(25, 25, 117);
+}
+.upp{
+ margin: 100;
+ text-align: center;
+ font-family: 'Harmattan', sans-serif;
+ font-size: 30px;
+
+}
+.car{
+  text-align: center;
+}
+.map{
+  text-align: center;
+}
+.caar{
+  text-align: center;
+}
+  .white{
+text-align: center;
+  
+}
+.bildwrap{
+  text-align: center;
+}
+
+ul{
+    list-style-type: none;            
+    margin: 0;
+    padding: 0;
+    width: 150px;
+    height: 260px;        
+    background-color: #f1f1f1;
+}
+li a {
+    display: block;
+    color: #000;
+    padding: 8px 16px;
+    text-decoration: none;
+}
+  li a:hover {
+    background-color: rgb(97, 6, 6);
+    color: white;
+}
+#buu{
+   position:fixed;
+}
+.meny
+  { position: fixed; left: 20px; top: 20px } 
+
+  
+  
