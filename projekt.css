@@ -1,3 +1,11 @@
+.flytta{
+ margin-top: 10px;
+
+}.bok{
+text-align:center;
+font-family: 'Harmattan', sans-serif;
+font-size: 40px;
+}
 .mail{
 text-align:center;
 font-family: 'Harmattan', sans-serif;
@@ -34,20 +42,22 @@ font-size: 50px;
   color: rgb(0, 0, 0);
 }
 .vansinne{ 
-  text-align: center;
+  margin-left: 10px;
   font-family: 'Days One', sans-serif;
-  font-size: 50px;
-  color: rgb(25, 25, 117);
-}
+  float:left;
+  font-size: 30px;
+  color:white;
+}  
 .parkering{
   margin: 100;
   text-align: center;
+  margin-top: 300px;
   font-family: 'Days One', sans-serif;
   font-size: 25px;
 }
 .ovrigt{
   padding:4;
-  margin: 90;
+  margin-top: 90;
   text-align: center;
   font-family: 'Harmattan', sans-serif;
   font-size: 50px;
@@ -64,7 +74,7 @@ font-size: 50px;
   font-family: 'Harmattan', sans-serif;
   font-size: 25px;
 }.rubi{
- margin: 100;
+ margin-top: 100;
  text-align: center;
  font-family: 'Harmattan', sans-serif;
  font-size: 50px;
@@ -72,7 +82,8 @@ font-size: 50px;
  color: rgb(25, 25, 117);
 }
 .upp{
- margin: 200px;
+
+ margin: 100px;
  text-align: center;
  font-family: 'Harmattan', sans-serif;
  font-size: 30px;
@@ -83,11 +94,18 @@ font-size: 50px;
 }
 .map{
   text-align: center;
+  position: bottom; right: 40px; top: 20px 
 }
 .caar{
+  height:40vh:
+  text-align:
+ 
+}
+.parking_lot{
+  height:30vh;
   text-align: center;
 }
-  .white{
+.white{
 text-align: center;
   
 }
@@ -103,21 +121,41 @@ ul{
     height: 260px;        
     background-color: #f1f1f1;
 }
-li a {
-    display: block;
-    color: #000;
+a {
+    
+    color:white;
     padding: 8px 16px;
     text-decoration: none;
 }
-  li a:hover {
-    background-color: rgb(97, 6, 6);
-    color: white;
-}
+ 
 #buu{
    position:fixed;
 }
+.list{
+  position: relative;
+  top:30px;
+  
+
+}
 .meny
-  { position: fixed; left: 20px; top: 20px } 
+  { 
+    position: fixed; left: 0; top: 0; right: 0;
+    text-align: center;
+    height: 10vh;
+    background: maroon;
+   
+  } 
+  .footer{
+
+    position: fixed; left: 0; top: 0; right: 0;
+    z-index: -1;
+    text-align: left;
+    text-indent: 8px;
+    color: white;
+    top: 860px;
+    height: 10vh;
+    background: darkblue;
+  }
 
   
   
