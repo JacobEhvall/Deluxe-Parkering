@@ -2,6 +2,7 @@
  margin-top: 10px;
 
 }.bok{
+margin-top:10px;
 text-align:center;
 font-family: 'Harmattan', sans-serif;
 font-size: 40px;
@@ -93,13 +94,10 @@ font-size: 50px;
   text-align: center;
 }
 .map{
-  text-align: center;
-  position: bottom; right: 40px; top: 20px 
+  position:relative; bottom:2px; left:5px;
 }
 .caar{
-  height:40vh:
-  text-align:
- 
+  text-align:center;
 }
 .parking_lot{
   height:30vh;
@@ -112,7 +110,6 @@ text-align: center;
 .bildwrap{
   text-align: center;
 }
-
 ul{
     list-style-type: none;            
     margin: 0;
@@ -141,7 +138,7 @@ a {
   { 
     position: fixed; left: 0; top: 0; right: 0;
     text-align: center;
-    height: 10vh;
+    height: 8vh;
     background: maroon;
    
   } 
